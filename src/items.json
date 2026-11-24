@@ -1,0 +1,552 @@
+[
+  {
+    "id": "1.1",
+    "category": "1. Cabestrantes",
+    "description": "Comprobar existencia de tapón en el conector de cierre de la caja de control",
+    "row": 5,
+    "photos": [
+      "excel-c5.png"
+    ]
+  },
+  {
+    "id": "1.2",
+    "category": "1. Cabestrantes",
+    "description": "Fijar el tubo corrugado que protege el cable eléctrico y que pase por el mismo sitio en todos los vehículos, tanto el del centro como el del lateral derecho que sale por el distribuidor.",
+    "row": 6,
+    "photos": [
+      "excel-c6.png"
+    ]
+  },
+  {
+    "id": "1.3",
+    "category": "1. Cabestrantes",
+    "description": "Engrasar en los puntos de engrase de los rodillos frontales y en cabestrante",
+    "row": 7,
+    "photos": [
+      "excel-c7.png",
+      "excel-d7.png"
+    ]
+  },
+  {
+    "id": "1.4",
+    "category": "1. Cabestrantes",
+    "description": "Manguera del winche a la PTO con fuga por falta de apriete.",
+    "row": 8,
+    "photos": [
+      "excel-c8.png"
+    ]
+  },
+  {
+    "id": "1.5",
+    "category": "1. Cabestrantes",
+    "description": "Comprobar funcionamiento del winche, ausencia de ruidos",
+    "row": 9,
+    "photos": []
+  },
+  {
+    "id": "1.6",
+    "category": "1. Cabestrantes",
+    "description": "Pintar en rojo los 4m del cable que se quedan enrollados en el tambor",
+    "row": 10,
+    "photos": []
+  },
+  {
+    "id": "1.7",
+    "category": "1. Cabestrantes",
+    "description": "Apretar el soporte de la palanca hidráulica del winch y echar en dotación una llave allen de 3 para su montaje a elección por el usuario final.",
+    "row": 11,
+    "photos": []
+  },
+  {
+    "id": "1.8",
+    "category": "1. Cabestrantes",
+    "description": "Comprobar funcionalidad de pieza metálica seguro bulón frontal",
+    "row": 12,
+    "photos": [
+      "excel-c12.png",
+      "excel-d12.png"
+    ]
+  },
+  {
+    "id": "2.1",
+    "category": "2. Intercomunicadores",
+    "description": "Comprobar funcionamiento en cabina y caja de carga, volumen similar en todos los vehículos",
+    "row": 14,
+    "photos": []
+  },
+  {
+    "id": "2.2",
+    "category": "2. Intercomunicadores",
+    "description": "Fijar el cableado en la parte inferior de la plataforma que evite aplastamiento en caso de torsión extrema",
+    "row": 15,
+    "photos": []
+  },
+  {
+    "id": "2.3",
+    "category": "2. Intercomunicadores",
+    "description": "Revisar conexiones eléctricas",
+    "row": 16,
+    "photos": []
+  },
+  {
+    "id": "3.1",
+    "category": "3. Tornillería original y fijaciones originales MB",
+    "description": "Comprobar montaje de tornillería original MB en puentes del chasis y en soporte de acoplamiento trasero",
+    "row": 18,
+    "photos": [
+      "excel-c18.png",
+      "excel-d18.png"
+    ]
+  },
+  {
+    "id": "3.2",
+    "category": "3. Tornillería original y fijaciones originales MB",
+    "description": "Comprobar que las fijaciones originales se han vuelto a montar (OJO!! con las bridas en latiguillos de frenos)",
+    "row": 19,
+    "photos": [
+      "excel-c19.png",
+      "excel-d19.png",
+      "excel-e19.png"
+    ]
+  },
+  {
+    "id": "3.3",
+    "category": "3. Tornillería original y fijaciones originales MB",
+    "description": "Pernos faltantes en anclajes (unas unidades los tienen y otras no).",
+    "row": 20,
+    "photos": []
+  },
+  {
+    "id": "3.4",
+    "category": "3. Tornillería original y fijaciones originales MB",
+    "description": "Pernos de fijación de chasis torcidos al apretar",
+    "row": 21,
+    "photos": []
+  },
+  {
+    "id": "3.5",
+    "category": "3. Tornillería original y fijaciones originales MB",
+    "description": "Faltan pernos interiores del gancho de remolque.",
+    "row": 22,
+    "photos": [
+      "excel-c22.png"
+    ]
+  },
+  {
+    "id": "4.1",
+    "category": "4. Rejas de protección",
+    "description": "Comprobar existencia de los tacos de goma en los lugares previstos y que no se encuentren dañados, cuarteados, etc.",
+    "row": 24,
+    "photos": [
+      "excel-c24.png",
+      "excel-d24.png"
+    ]
+  },
+  {
+    "id": "4.2",
+    "category": "4. Rejas de protección",
+    "description": "Comprobar el cierre de la reja del parabrisas, funcionamiento de los cierres",
+    "row": 25,
+    "photos": []
+  },
+  {
+    "id": "4.3",
+    "category": "4. Rejas de protección",
+    "description": "Sustituir las anillas de los cables de los pomos de fijación por otras más robustas",
+    "row": 26,
+    "photos": [
+      "excel-c26.png"
+    ]
+  },
+  {
+    "id": "4.4",
+    "category": "4. Rejas de protección",
+    "description": "Aplicar poliuretano y retocar con pintura las fijaciones por la parte interior de las puertas de cabina",
+    "row": 27,
+    "photos": []
+  },
+  {
+    "id": "4.5",
+    "category": "4. Rejas de protección",
+    "description": "Rejillas laterales: abiertas no se pueden atornillar; anillas no quedan fijas y generan ruido.",
+    "row": 28,
+    "photos": []
+  },
+  {
+    "id": "5.1",
+    "category": "5. Interferencia en fijaciones",
+    "description": "Existe interferencia entre las cabezas de los tornillos de los extremos y el ala de las fijaciones del sobrechasis",
+    "row": 30,
+    "photos": [
+      "excel-c30.png",
+      "excel-d30.png",
+      "excel-e30.png"
+    ]
+  },
+  {
+    "id": "5.2",
+    "category": "5. Interferencia en fijaciones",
+    "description": "PLÁSTICOS SALPICADEROS:",
+    "row": 31,
+    "photos": []
+  },
+  {
+    "id": "5.3",
+    "category": "5. Interferencia en fijaciones",
+    "description": "Comprobar apoyo correcto de la tapa donde se monta el intercomunicador, OJO longitud de autotaladrantes",
+    "row": 32,
+    "photos": [
+      "excel-c32.png",
+      "excel-d32.png"
+    ]
+  },
+  {
+    "id": "5.4",
+    "category": "5. Interferencia en fijaciones",
+    "description": "Comprobar fijación de la grapa de la luz de mapas y del aireador original",
+    "row": 33,
+    "photos": []
+  },
+  {
+    "id": "6.1",
+    "category": "6. Instalación hidráulica",
+    "description": "Comprobar asiento de filtro de aceite y aireador en depósito de aceite, revisar los aireadores ya que alguno se encontraba roto",
+    "row": 35,
+    "photos": [
+      "excel-c35.png"
+    ]
+  },
+  {
+    "id": "6.2",
+    "category": "6. Instalación hidráulica",
+    "description": "Limpiar restos de aceite alrededor de los filtros y comprobar ausencia de filtraciones",
+    "row": 36,
+    "photos": [
+      "excel-c36.png"
+    ]
+  },
+  {
+    "id": "6.3",
+    "category": "6. Instalación hidráulica",
+    "description": "Comprobar ajuste de las cintas soporte con el depósito de aceite, existen holguras",
+    "row": 37,
+    "photos": [
+      "excel-c37.png"
+    ]
+  },
+  {
+    "id": "6.4",
+    "category": "6. Instalación hidráulica",
+    "description": "Asegurar apriete de la manguera de retorno y funcionamiento de la llave de paso (comprobar que la apertura es total y no colisiona con ningún elemento)",
+    "row": 38,
+    "photos": [
+      "excel-c38.png"
+    ]
+  },
+  {
+    "id": "6.5",
+    "category": "6. Instalación hidráulica",
+    "description": "Proteger los latiguillos hidráulicos en las zonas que estén en contacto con soportes metálicos",
+    "row": 39,
+    "photos": [
+      "excel-c39.png",
+      "excel-d39.png",
+      "excel-e39.png"
+    ]
+  },
+  {
+    "id": "6.6",
+    "category": "6. Instalación hidráulica",
+    "description": "La instalación hidráulica tiene que seguir el mismo trazado en todos los vehículos",
+    "row": 40,
+    "photos": []
+  },
+  {
+    "id": "6.7",
+    "category": "6. Instalación hidráulica",
+    "description": "Mejorar fijaciones en estos puntos y en todos los que tengan contacto con metal",
+    "row": 41,
+    "photos": [
+      "excel-c41.png",
+      "excel-d41.png",
+      "excel-e41.png",
+      "excel-f41.png",
+      "excel-g41.png"
+    ]
+  },
+  {
+    "id": "6.8",
+    "category": "6. Instalación hidráulica",
+    "description": "Revisar niveles de aceite hidráulico",
+    "row": 42,
+    "photos": [
+      "excel-c42.png"
+    ]
+  },
+  {
+    "id": "6.9",
+    "category": "6. Instalación hidráulica",
+    "description": "Comprobar apriete y ausencia de fugas en tornillos de montaje bomba en PTO",
+    "row": 43,
+    "photos": []
+  },
+  {
+    "id": "6.10",
+    "category": "6. Instalación hidráulica",
+    "description": "Mejorar fijaciones de cañerías en general",
+    "row": 44,
+    "photos": []
+  },
+  {
+    "id": "6.11",
+    "category": "6. Instalación hidráulica",
+    "description": "Sensores de caja tocan manguera hidráulica (se debe cambiar el ángulo).",
+    "row": 45,
+    "photos": [
+      "excel-c45.png"
+    ]
+  },
+  {
+    "id": "6.12",
+    "category": "6. Instalación hidráulica",
+    "description": "Latiguillo de dirección reventado; unidad inmovilizada hasta reemplazo. unidad 76",
+    "row": 46,
+    "photos": [
+      "excel-c46.png"
+    ]
+  },
+  {
+    "id": "7.1",
+    "category": "7. Soporte de rueda",
+    "description": "Montar seguro adicional a la rueda repuesto (cable con candado)",
+    "row": 48,
+    "photos": []
+  },
+  {
+    "id": "7.2",
+    "category": "7. Soporte de rueda",
+    "description": "Comprobar apriete de tornillo de polea en brazo del soporte de rueda",
+    "row": 49,
+    "photos": [
+      "excel-c49.png",
+      "excel-d49.png"
+    ]
+  },
+  {
+    "id": "7.3",
+    "category": "7. Soporte de rueda",
+    "description": "Cortar pasadores de las manivelas de los soportes de rueda",
+    "row": 50,
+    "photos": [
+      "excel-c50.png"
+    ]
+  },
+  {
+    "id": "8.1",
+    "category": "8. ROPS",
+    "description": "Comprobar que las fijaciones twist-locks apoyan correctamente",
+    "row": 52,
+    "photos": [
+      "excel-c52.png"
+    ]
+  },
+  {
+    "id": "8.2",
+    "category": "8. ROPS",
+    "description": "Comprobar montaje de los cinturones que no esté al revés",
+    "row": 53,
+    "photos": []
+  },
+  {
+    "id": "8.3",
+    "category": "8. ROPS",
+    "description": "Cambiar la posición del cierre del cañon en el soporte de arma de los asientos centrales para que sean accesibles",
+    "row": 54,
+    "photos": [
+      "excel-c54.png",
+      "excel-d54.png"
+    ]
+  },
+  {
+    "id": "9.1",
+    "category": "9. Soporte chuzo",
+    "description": "Comprobar montaje de soporte chuzo en nueva posición y retoque de pintura",
+    "row": 56,
+    "photos": [
+      "excel-c56.png",
+      "excel-d56.png"
+    ]
+  },
+  {
+    "id": "10.1",
+    "category": "10. Soporte towbar",
+    "description": "Comprobar montaje de towbar en nueva posición y retoque de pintura",
+    "row": 58,
+    "photos": [
+      "excel-c58.png",
+      "excel-d58.png"
+    ]
+  },
+  {
+    "id": "11.1",
+    "category": "11. Material de dotación",
+    "description": "Asegurar que se encuentra todo el material de dotación ya que se han sacado y usado diferentes ítems.",
+    "row": 60,
+    "photos": []
+  },
+  {
+    "id": "11.2",
+    "category": "11. Material de dotación",
+    "description": "Añadir la argolla azul del cabestrante",
+    "row": 61,
+    "photos": [
+      "excel-c61.png"
+    ]
+  },
+  {
+    "id": "12.1",
+    "category": "12. Faldillas",
+    "description": "Revisar que las gomas de las faldillas no se encuentran cuarteadas o deformadas por exceso de apriete",
+    "row": 63,
+    "photos": [
+      "excel-c63.png"
+    ]
+  },
+  {
+    "id": "13.1",
+    "category": "13. Paragolpes trasero",
+    "description": "Comprobar que los cables de fijación de los pasadores son del mismo modelo en todos los vehículos",
+    "row": 65,
+    "photos": []
+  },
+  {
+    "id": "13.2",
+    "category": "13. Paragolpes trasero",
+    "description": "Comprobar modificación para abatimiento interior del paragolpes y funcionalidad de los pasadores de bloqueo.",
+    "row": 66,
+    "photos": [
+      "excel-c66.png",
+      "excel-d66.png"
+    ]
+  },
+  {
+    "id": "14.1",
+    "category": "14. Peldaños traseros",
+    "description": "Comprobar asiento completo de las fijaciones de los peldaños",
+    "row": 68,
+    "photos": [
+      "excel-c68.png"
+    ]
+  },
+  {
+    "id": "15.1",
+    "category": "15. Soportes tacos laterales y traseras",
+    "description": "Comprobar que todos los tacos de los laterales y de las traseras apoyan al abatirse, en caso necesario calzar o sustituir por taco de longitud adecuada",
+    "row": 70,
+    "photos": []
+  },
+  {
+    "id": "15.2",
+    "category": "15. Soportes tacos laterales y traseras",
+    "description": "Comprobar colisiones en la tornillería de montaje de los soportes",
+    "row": 71,
+    "photos": [
+      "excel-c71.png",
+      "excel-d71.png"
+    ]
+  },
+  {
+    "id": "16.1",
+    "category": "16. Cierres cajones de herramientas",
+    "description": "Sustituir los remaches por tornillos y tuercas autoblocantes",
+    "row": 73,
+    "photos": [
+      "excel-c73.png"
+    ]
+  },
+  {
+    "id": "17.1",
+    "category": "17. Puntos de izado frontales",
+    "description": "Comprobar roscado de argollas",
+    "row": 75,
+    "photos": [
+      "excel-c75.png"
+    ]
+  },
+  {
+    "id": "18.1",
+    "category": "18. Frenos",
+    "description": "Revisar que no existan latiguillos plásticos estrangulando cañerías de frenos",
+    "row": 77,
+    "photos": []
+  },
+  {
+    "id": "19.1",
+    "category": "19. Pintura en general",
+    "description": "Revisar diversos detalles con pintura faltante",
+    "row": 79,
+    "photos": []
+  },
+  {
+    "id": "20.1",
+    "category": "20. Discontinuidades de soldadura",
+    "description": "Revisar defectos de soldadura en parte inferior soportes cabestrante y en travesaños bastidor torsion free",
+    "row": 81,
+    "photos": [
+      "excel-c81.png",
+      "excel-d81.png"
+    ]
+  },
+  {
+    "id": "21.1",
+    "category": "21. Baterías",
+    "description": "Bornes de batería sin apriete correcto.",
+    "row": 83,
+    "photos": []
+  },
+  {
+    "id": "22.1",
+    "category": "22. Cadenas",
+    "description": "Completar requerimiento según anexo",
+    "row": 85,
+    "photos": [
+      "excel-c85.png"
+    ]
+  },
+  {
+    "id": "23.1",
+    "category": "23. Conector hembra de 7 pines",
+    "description": "Aun cuando esto estaba en los requerimientos, por error mío o mas bien de MB, no se considero. Favor Adolfo revisar opción de adaptador que permita la conexión entre cualquiera de los actualmente equipados en el camión a uno hembra de 7 pines. Si corresponde, favor me envías las cotización. Esto aplica a los 205 camiones.",
+    "row": 87,
+    "photos": [
+      "excel-c87.png",
+      "excel-d87.jpeg",
+      "excel-e87.jpeg",
+      "excel-f87.jpeg"
+    ]
+  },
+  {
+    "id": "24.1",
+    "category": "24. Varios",
+    "description": "Ventilador del enfriador de transferencia con enchufe quebrado. este fue retirado del equipo 78 el cual tiene pendiente la instalacion de nuevo ventilador y el soplador del interior de la cabina. Repuesto pendiente MB.",
+    "row": 89,
+    "photos": [
+      "excel-c89.png",
+      "excel-d89.png"
+    ]
+  },
+  {
+    "id": "24.2",
+    "category": "24. Varios",
+    "description": "Unidad 78: falta instalar el difusor de aire central de la cabina",
+    "row": 90,
+    "photos": []
+  },
+  {
+    "id": "24.3",
+    "category": "24. Varios",
+    "description": "Unidad 18: Revisar fuga de dirección, en revisión este genera fuga en el vano motor, no se logró identificar, sin embargo tiene precedente de ser del latiguillo de dirección. WDB96400510860797",
+    "row": 91,
+    "photos": []
+  }
+]
